@@ -1,2 +1,4 @@
 # Roll_a_ball
-First game in Unity
+Roll-a-Ball is a classic game that involves controlling a ball to collect objects and score points. The objective is to navigate the ball through a maze-like environment, avoiding obstacles and pitfalls, while trying to gather as many items as possible.
+In Roll-a-Ball, players control the movement of the ball using keyboard inputs or gestures, depending on the platform or device. The game typically utilizes physics-based mechanics, where the ball's movement and interactions with the environment are governed by realistic physics simulations.
+The game environment consists of a three-dimensional space with various platforms, ramps, walls, and other obstacles. The player's task is to steer the ball around these obstacles, making use of gravity and momentum to reach the desired targets. The levels may increase in difficulty as the player progresses, introducing more challenging obstacles and puzzles
